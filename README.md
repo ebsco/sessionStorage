@@ -1,0 +1,1 @@
+Remy Sharp's simple sessionStorage polyfill.
